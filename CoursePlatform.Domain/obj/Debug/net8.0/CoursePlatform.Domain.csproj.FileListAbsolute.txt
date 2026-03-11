@@ -9,3 +9,4 @@ C:\Repos\CoursePlatform\CoursePlatform.Domain\obj\Debug\net8.0\CoursePlatform.Do
 C:\Repos\CoursePlatform\CoursePlatform.Domain\obj\Debug\net8.0\refint\CoursePlatform.Domain.dll
 C:\Repos\CoursePlatform\CoursePlatform.Domain\obj\Debug\net8.0\CoursePlatform.Domain.pdb
 C:\Repos\CoursePlatform\CoursePlatform.Domain\obj\Debug\net8.0\ref\CoursePlatform.Domain.dll
+C:\Repos\CoursePlatform\CoursePlatform.Domain\obj\Debug\net8.0\CoursePlatform.Domain.sourcelink.json

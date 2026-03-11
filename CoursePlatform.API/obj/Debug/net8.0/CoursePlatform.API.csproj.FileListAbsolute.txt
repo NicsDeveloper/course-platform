@@ -36,3 +36,4 @@ C:\Repos\CoursePlatform\CoursePlatform.API\obj\Debug\net8.0\refint\CoursePlatfor
 C:\Repos\CoursePlatform\CoursePlatform.API\obj\Debug\net8.0\CoursePlatform.API.pdb
 C:\Repos\CoursePlatform\CoursePlatform.API\obj\Debug\net8.0\CoursePlatform.API.genruntimeconfig.cache
 C:\Repos\CoursePlatform\CoursePlatform.API\obj\Debug\net8.0\ref\CoursePlatform.API.dll
+C:\Repos\CoursePlatform\CoursePlatform.API\obj\Debug\net8.0\CoursePlatform.API.sourcelink.json
