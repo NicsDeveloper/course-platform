@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CoursePlatform.API/CoursePlatform.API.csproj" />
   <Project Path="CoursePlatform.Domain/CoursePlatform.Domain.csproj" />
+  <Project Path="CoursePlatform.Infrastructure/CoursePlatform.Infrastructure.csproj" />
 </Solution>
