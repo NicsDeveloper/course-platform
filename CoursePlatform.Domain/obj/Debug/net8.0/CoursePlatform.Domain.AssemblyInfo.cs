@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoursePlatform.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2353246e1ec64bd1cbd72f62223573e19bb9726")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c376bbed340b2271150a9f7490915e7f9d89ceee")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoursePlatform.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoursePlatform.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,72 @@
+# Visual Studio / .NET - https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.env
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+**/[Bb]in/*
+**/[Oo]bj/*
+
+# Visual Studio
+.vs/
+Generated\ Files/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+TestResult.xml
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Publish
+publish/
+*.[Pp]ublish.xml
+*.pubxml
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.cachefile
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# VS Code (optional - uncomment if you use)
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/launch.json
+
+# This project: SQLite database (dev data, recreated by migrations)
+*.db
+*.db-shm
+*.db-wal
